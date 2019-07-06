@@ -1,2 +1,2 @@
 # Reddit
-Scripts that analyse posts/links on Reddit.
+Scripts that analyze posts and links on Reddit.
