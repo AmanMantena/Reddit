@@ -1,2 +1,2 @@
-# RedditBots
-Bots/Scripts for Reddit I created.
+# Reddit
+Scripts that analyse posts/links on Reddit.
